@@ -12,7 +12,9 @@ There are 3 types of recommendation systems available.
  - [Collaborative filtering](https://www.geeksforgeeks.org/what-are-recommender-systems/)
  - [Hybrid systems](https://www.geeksforgeeks.org/what-are-recommender-systems/)
 
-Here I used Content-based filtering for the system. 
+Here I have used Content-based filtering for this system featuring **Cosine Similarity**.
+
+
 
 ## 📂 Project Structure
 
