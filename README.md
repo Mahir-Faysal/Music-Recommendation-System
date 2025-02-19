@@ -59,7 +59,9 @@ For optimizations I've used **StandardScaler** , **PCA** ,
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output](Screenshots/Output.png)
+![EDA_1](Screenshots/EDA_1.png)
+![EDA_2](Screenshots/EDA_2.png)
 
 
 ## 📌 Future Improvements
