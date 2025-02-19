@@ -52,8 +52,10 @@ python app.py
 
 ## Optimizations
 
-For optimizations I've used **StandardScaler** , **PCA** , 
- **Sparse Matrix**.
+For optimizations I've used 
+- **StandardScaler** ,
+- **PCA** ,
+- **Sparse Matrix**.
 
 
 
